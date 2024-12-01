@@ -14,7 +14,16 @@ function LoginSignup() {
         </div>
         <div className='inputs'>
             <div className='input'>
-                
+                <img src="" alt="" />
+                <input type="text" />
+            </div>
+            <div className='input'>
+                <img src="" alt="" />
+                <input type="text" />
+            </div>
+            <div className='input'>
+                <img src="" alt="" />
+                <input type="text" />
             </div>
         </div>
         
