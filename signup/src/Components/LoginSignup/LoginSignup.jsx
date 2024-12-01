@@ -15,14 +15,14 @@ function LoginSignup() {
         <div className='inputs'>
             <div className='input'>
                 <img src={user_icon} alt="" />
-                <input type="text" />
+                <input type="text" placeholder="Name"/>
             </div>
             <div className='input'>
-                <img src={email_icon} alt="" />
+                <img src={email_icon} alt="" placeholder="Email Id"/>
                 <input type="email" />
             </div>
             <div className='input'>
-                <img src={password_icon} alt="" />
+                <img src={password_icon} alt="" placeholder="Password"/>
                 <input type="password" />
             </div>
         </div>
